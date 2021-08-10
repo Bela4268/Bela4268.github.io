@@ -1,0 +1,25 @@
+#head11 {position:absolute; top:130px;left:370px;font-family: 'Abril Fatface', cursive;color:#222;}
+
+#head {width:800px;height:252px;
+  background-size: cover;
+  margin:230px auto 0 auto;
+  width:800px;
+  background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  position:relative;
+  font-family: 'Abril Fatface', cursive;color:#222;
+} 
+  
+#head3 {position:absolute; top:155px;left:230px;/*border:1px solid red;*/; margin:0; padding:0;width:300px;}
+#head1 {position:absolute; top:175px;left:230px;/*border:1px solid purple;*/ margin:0;padding:0;width:300px;}
+
+#middle{padding-top:20px;/*border: 1px solid green;*/width:400px;height:80px;
+  margin:0 auto 0 auto; position:absolute; top:482px;left:655px;
+font-family: 'Merriweather Sans', sans-serif;font-size: 9px;line-height: 1.8;}
+
+#middle1{/*border: 1px solid red;*/width:360px;height:100px;
+  margin:0 auto 0 auto;position:absolute;
+top:582px;left:655px;
+font-family: 'Merriweather Sans', sans-serif;font-size: 9px;line-height: 1.8;}
+
+#bottom{/*border: 1px solid pink;*/width:490px;height:100px;position:absolute;
+top:682px;left:615px;font-family: 'Abril Fatface', cursive;color:white;background:#222;}
